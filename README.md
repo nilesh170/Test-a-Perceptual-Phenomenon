@@ -12,3 +12,8 @@ In this project, you will investigate a classic phenomenon from experimental psy
 * How to identify components of an experiment
 * How to use descriptive statistics to describe qualities of a sample
 * How to set up a hypothesis test, make inferences from a sample, and draw conclusions based on the results
+
+### Contact Info
+* https://twitter.com/Nilesh79102577
+* https://www.linkedin.com/in/nilesh-mahto-5330a116a/
+* https://github.com/nilesh170
